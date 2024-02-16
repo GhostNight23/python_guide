@@ -1,2 +1,7 @@
-# python_guide
-Un conjunto de ejercicios que van aumentando de dificutad poco a poco
+# python_excercise
+
+
+
+## Razon de ser
+
+Un conjunto de ejercicios de Python para mejorar la compresión del lenguaje.
